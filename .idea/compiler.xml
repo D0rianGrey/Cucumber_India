@@ -9,5 +9,6 @@
         <module name="Cucumber_India" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
   </component>
 </project>
